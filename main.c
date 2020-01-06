@@ -10,7 +10,8 @@ int main()
 int main ()
 { 
   int i; 
-  for (1=0; i < 32; i++)
+  for (i =0; i < 32; i++)
   { printf ("Hello Holberton\n")
     return 0; 
+  }
    
